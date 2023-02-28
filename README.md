@@ -15,7 +15,7 @@ For now, just one function:
     
     Motivation:
     Sometimes, I find usefull to have preprocessing in asm files, to use different asm depending on externally defined macros.
-    I hope other people may find it useful
+    I hope other people may find it useful.
     
     
 **Usage:**
